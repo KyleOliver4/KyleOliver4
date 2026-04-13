@@ -13,7 +13,7 @@ If there's a problem in front of me, chances are I’ll find a way to fix it, im
 - Python
 - AutoCAD
 - Maintenance & Repair
-- Industrial Automation
+- Manufacturing Automation
 
 ---
 
