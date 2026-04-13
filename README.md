@@ -45,3 +45,7 @@ I enjoy working on systems, understanding how things work, and making them bette
 - I enjoy building and fixing things in my spare time
 - Always looking to learn new technologies
 - Interested in automation, robotics, and engineering innovation
+
+### 📫 Let's Connect
+- LinkedIn: https://www.linkedin.com/in/kyle-oliver-40a6502b8/?skipRedirect=true
+- Email: kyleoliver441@gmail.com
