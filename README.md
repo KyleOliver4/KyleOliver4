@@ -25,10 +25,25 @@ I’m trusted within the engineering team to support key operations, troubleshoo
 ---
 
 ### 📂 Projects
-I’m actively involved in hands-on engineering and automation projects, focusing on:
-- Improving machine efficiency
-- Reducing downtime
-- Developing practical automation solutions
+
+#### 🔧 PLC-Based Automation Improvements
+- Assisted in developing and modifying PLC programs to improve machine efficiency  
+- Identified process bottlenecks and implemented logic changes to reduce downtime  
+- Supported fault-finding and debugging on live production systems  
+
+---
+
+#### 🏭 Maintenance & Fault Diagnosis
+- Carried out hands-on maintenance and repair of machinery  
+- Diagnosed electrical and mechanical faults to minimise production disruption  
+- Contributed to improving system reliability through preventative maintenance  
+
+---
+
+#### 📐 AutoCAD Design Work
+- Produced and edited technical drawings to support engineering projects  
+- Assisted in layout planning and system modifications  
+- Ensured accuracy and clarity in documentation for implementation  
 
 (More projects coming soon 👀)
 
